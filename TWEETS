@@ -1,0 +1,3 @@
+This is the whole project which done by me. in this project we can do login, register by giving correct credentials. and then we can create our passage in which we can add our tweets messege and photo also. we can manage our tweet too like change the tweet ,edit the tweet,delete the tweet like that and also log out option also available..
+
+In this project we can use python language for a backend framework use is Django..for frontend html,css, js,and bootstrap, as well as for a SQL sqlite3 used in it. and this project not yet complete fully i am working on it for more enhancing. thank you!
